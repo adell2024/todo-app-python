@@ -22,7 +22,7 @@ def list_tasks():
 
 # Mettez à jour le if __name__ == "__main__":
 if __name__ == "__main__":
-    print("Bienvenue dans le gestionnaire de tâches !")
+    print("Salut dans le todo app !")
     add_task("Apprendre Git")
     add_task("Maîtriser GitHub")
     list_tasks()
